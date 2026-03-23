@@ -30,8 +30,8 @@ La qualité des données est garantie via le fichier `schema.yml`. Les tests sui
 * Tests de non-nullité (`not_null`) sur les champs critiques.
 * Tests de valeurs acceptées (`accepted_values`) pour le genre ou les régions.
 
-## Comment exécuter ce projet en local ?
+<img src="images/Capture d'écran 2026-03-10 133019.png" width="500px"><img src="images/Capture d'écran 2026-03-09 142559.png" width="500px">
+<img src="images/Capture d'écran 2026-03-09 142332.png" width="450px"><img src="images/Capture d'écran 2026-03-09 142031.png" width="450px">
 
-1. Clonez ce dépôt :
-   ```bash
-   git clone [https://github.com/RemyDaura/nom-de-ton-repo.git](https://github.com/RemyDaura/nom-de-ton-repo.git)
+---
+*Ce projet fait partie de la formation Data Analyst d'OpenClassrooms.*
