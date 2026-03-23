@@ -1,4 +1,3 @@
-# DA-Projet8-Analyse--volution--Dynamique-Sociod-mographiques-DBT
 # Modélisation de Données avec dbt et Snowflake
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
