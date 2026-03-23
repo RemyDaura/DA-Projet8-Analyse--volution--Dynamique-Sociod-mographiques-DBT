@@ -1,0 +1,101 @@
+YEAR_PATH_STARTED;REGION;GENDER;AGE_GROUP;NB_STUDENTS;INSEE_POPULATION
+2025;Auvergne-Rhône-Alpes;M;60 ans ou plus;2;1047130
+2025;Auvergne-Rhône-Alpes;M;20-24 ans;9;241782
+2025;Auvergne-Rhône-Alpes;M;40-44 ans;11;263089
+2024;Auvergne-Rhône-Alpes;F;20-24 ans;1;226566
+2024;Auvergne-Rhône-Alpes;M;20-24 ans;6;241782
+2024;Auvergne-Rhône-Alpes;M;40-44 ans;7;263089
+2023;Auvergne-Rhône-Alpes;M;25-29 ans;5;240346
+2023;Auvergne-Rhône-Alpes;Non renseigné;25-29 ans;6;0
+2022;Auvergne-Rhône-Alpes;F;35-39 ans;4;270983
+2022;Auvergne-Rhône-Alpes;M;60 ans ou plus;1;1047130
+2025;Île-de-France;Non renseigné;25-29 ans;8;0
+2025;Île-de-France;Non renseigné;35-39 ans;8;0
+2024;Île-de-France;M;20-24 ans;10;424523
+2024;Île-de-France;Non renseigné;25-29 ans;1;0
+2024;Île-de-France;Non renseigné;55-59 ans;4;0
+2023;Île-de-France;F;35-39 ans;28;458815
+2023;Île-de-France;F;30-34 ans;42;449818
+2023;Île-de-France;M;55-59 ans;7;370714
+2023;Île-de-France;M;30-34 ans;52;430026
+2022;Île-de-France;F;25-29 ans;8;472548
+2022;Île-de-France;M;55-59 ans;11;370714
+2022;Île-de-France;M;45-49 ans;20;405405
+2022;Île-de-France;Non renseigné;35-39 ans;55;0
+2022;Île-de-France;Non renseigné;30-34 ans;82;0
+2024;Bourgogne-Franche-Comté;F;40-44 ans;1;84653
+2024;Bourgogne-Franche-Comté;M;35-39 ans;1;80987
+2023;Bourgogne-Franche-Comté;M;25-29 ans;3;75028
+2023;Bourgogne-Franche-Comté;M;45-49 ans;1;81508
+2023;Bourgogne-Franche-Comté;Non renseigné;30-34 ans;1;0
+2025;Bretagne;M;25-29 ans;3;94873
+2024;Bretagne;F;35-39 ans;1;102674
+2024;Bretagne;Non renseigné;25-29 ans;1;0
+2022;Bretagne;F;45-49 ans;1;106083
+2022;Bretagne;Non renseigné;25-29 ans;2;0
+2025;Centre-Val-de-Loire;F;45-49 ans;2;77776
+2025;Centre-Val-de-Loire;F;40-44 ans;2;80495
+2024;Centre-Val-de-Loire;M;40-44 ans;3;76622
+2023;Centre-Val-de-Loire;M;55-59 ans;1;84540
+2023;Centre-Val-de-Loire;Non renseigné;40-44 ans;1;0
+2022;Centre-Val-de-Loire;Non renseigné;35-39 ans;5;0
+2025;DROM;F;40-44 ans;1;0
+2024;DROM;M;25-29 ans;1;0
+2025;Grand Est;M;40-44 ans;2;173872
+2025;Grand Est;M;30-34 ans;6;161842
+2024;Grand Est;F;30-34 ans;2;161017
+2024;Grand Est;M;40-44 ans;3;173872
+2023;Grand Est;F;35-39 ans;1;176099
+2023;Grand Est;Non renseigné;25-29 ans;4;0
+2023;Grand Est;Non renseigné;20-24 ans;1;0
+2022;Grand Est;F;55-59 ans;1;185409
+2022;Grand Est;M;25-29 ans;5;161371
+2022;Grand Est;M;50-54 ans;1;177501
+2025;Hauts-de-France;F;55-59 ans;2;188458
+2024;Hauts-de-France;M;25-29 ans;10;171759
+2023;Hauts-de-France;F;20-24 ans;1;176462
+2023;Hauts-de-France;M;35-39 ans;4;188529
+2023;Hauts-de-France;Non renseigné;35-39 ans;6;0
+2022;Hauts-de-France;M;45-49 ans;3;180791
+2025;Normandie;Non renseigné;30-34 ans;1;0
+2025;Normandie;Non renseigné;45-49 ans;1;0
+2024;Normandie;M;40-44 ans;2;100506
+2024;Normandie;Non renseigné;30-34 ans;1;0
+2023;Normandie;F;20-24 ans;1;86571
+2023;Normandie;M;40-44 ans;2;100506
+2023;Normandie;M;50-54 ans;1;104961
+2022;Normandie;F;50-54 ans;1;107629
+2022;Normandie;M;35-39 ans;3;99242
+2024;Nouvelle-Aquitaine;F;40-44 ans;4;194420
+2023;Nouvelle-Aquitaine;F;40-44 ans;3;194420
+2023;Nouvelle-Aquitaine;F;35-39 ans;1;187870
+2023;Nouvelle-Aquitaine;M;30-34 ans;8;166183
+2023;Nouvelle-Aquitaine;M;40-44 ans;1;185240
+2023;Nouvelle-Aquitaine;Non renseigné;40-44 ans;3;0
+2023;Nouvelle-Aquitaine;Non renseigné;45-49 ans;1;0
+2022;Nouvelle-Aquitaine;M;30-34 ans;11;166183
+2025;Occitanie;F;25-29 ans;6;167112
+2024;Occitanie;M;40-44 ans;4;185349
+2024;Occitanie;M;30-34 ans;11;173070
+2023;Occitanie;F;55-59 ans;1;209746
+2023;Occitanie;M;25-29 ans;1;170828
+2023;Occitanie;Non renseigné;30-34 ans;5;0
+2022;Occitanie;F;40-44 ans;3;197267
+2022;Occitanie;F;30-34 ans;4;176851
+2022;Occitanie;M;30-34 ans;11;173070
+2022;Occitanie;M;20-24 ans;2;177444
+2022;Occitanie;Non renseigné;30-34 ans;15;0
+2025;Pays de la Loire;F;25-29 ans;1;106435
+2025;Pays de la Loire;M;25-29 ans;3;110404
+2024;Pays de la Loire;M;40-44 ans;2;123238
+2023;Pays de la Loire;M;55-59 ans;1;122878
+2023;Pays de la Loire;Non renseigné;25-29 ans;3;0
+2022;Pays de la Loire;F;25-29 ans;2;106435
+2022;Pays de la Loire;M;45-49 ans;2;122346
+2022;Pays de la Loire;Non renseigné;45-49 ans;2;0
+2025;Provence-Alpes-Côte d'Azur;Non renseigné;45-49 ans;1;0
+2024;Provence-Alpes-Côte d'Azur;F;25-29 ans;7;143480
+2024;Provence-Alpes-Côte d'Azur;F;30-34 ans;1;152614
+2023;Provence-Alpes-Côte d'Azur;F;30-34 ans;4;152614
+2023;Provence-Alpes-Côte d'Azur;F;25-29 ans;2;143480
+2023;Provence-Alpes-Côte d'Azur;M;40-44 ans;1;157911
